@@ -5,4 +5,5 @@ Pillow
 matplotlib
 scikit-learn
 scikit-image
-pydensecrf
+cython
+git+https://github.com/lucasb-eyer/pydensecrf.git
