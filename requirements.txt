@@ -7,3 +7,5 @@ scikit-learn
 scikit-image
 cython
 git+https://github.com/lucasb-eyer/pydensecrf.git
+torch
+torchvision
